@@ -2,3 +2,7 @@ it
 cse
 ece
 aiml
+[CAIML
+CSE
+IT
+AIDS
