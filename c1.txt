@@ -6,3 +6,6 @@ aiml
 CSE
 IT
 AIDS
+AIML
+IT
+CSE
