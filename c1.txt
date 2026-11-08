@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+it 
+cse
+ece
+aiml
+[CAIML
+CSE
+IT
+AIDS
+>>>>>>> fb
 AIML
 IT
 CSE
